@@ -1,5 +1,24 @@
 # 🐍 Let's Learn Python
 
+![GitHub stars](https://img.shields.io/github/stars/vaibhaveethorat11/Let-s-learn-Python)
+![GitHub forks](https://img.shields.io/github/forks/vaibhaveethorat11/Let-s-learn-Python)
+![GitHub last commit](https://img.shields.io/github/last-commit/vaibhaveethorat11/Let-s-learn-Python)
+![Python](https://img.shields.io/badge/Python-Learning-blue)
+
+## 📌 Table of Contents
+
+* [About the Repository](#-lets-learn-python)
+* [What is Python?](#-what-is-python)
+* [Why Learn Python?](#-why-learn-python)
+* [Python Installation Guide](#️-python-installation-guide)
+* [How to Run Python Code](#️-how-to-run-python-code)
+* [Topics Covered](#-topics-covered-growing-daily)
+* [Daily Progress Checklist](#-daily-progress-checklist)
+* [Contributions](#-contributions)
+* [Connect With Me](#-connect-with-me)
+
+---
+
 Welcome to **Let's Learn Python**! 🚀
 This repository is a **daily learning log** where I document my Python journey — concepts, syntax, examples, and small practice snippets that I learn and push regularly to GitHub.
 
